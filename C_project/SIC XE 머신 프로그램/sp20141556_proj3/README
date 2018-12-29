@@ -1,0 +1,26 @@
+작업환경 : Linux
+
+컴파일 방법 : 20141556.h , 20141556.c , Makefile 이 세파일을 하나의 디렉토리 안에 위치시킨 후 명령프롬프트창에 명령어 make를 입력하면 된다. 만약 make를 입력하여 컴파일을 하고나서 수정사항없이 make입력을 통해서 컴파일을 시도하면 진행이 안되므로 이때에는 make clean을 입력 후에 make를 입력하면 된다.
+
+실행방법 :(1) Linux 환경에서 명령프롬프트창에 tar -xvf sp20141556_proj1.tar을 입력하여 tar 압축을 푼다. 
+          (2) 명령프롬프트창에 make를 입력하여 20141556.out이라는 실행 파일을 만든다
+          (3) ./20141556.out을 명령프롬프트창에 입력하여 프로그램을 실행시킨다.
+ 명령어 종류 :  h[elp]
+		d[ir]
+	       	q[uit]
+		hi[story]
+		du[mp] [start,end]
+		e[dit] address, value
+		f[ill] start, end, value
+		reset
+		opcode mnemonic
+		opcodelist
+		assemble filename
+		type filename
+		symbol	
+		progaddr [address] 
+		loader [object filename1] [object filename2] [;;;] : loading
+		run : 메모리에 load된 프로그램 실행
+		bp  [address]
+		bp
+		bp clear

@@ -1,0 +1,3 @@
+s3://sp20141556jh/output/
+
+https://s3.console.aws.amazon.com/s3/buckets/sp20141556jh/output/

@@ -1,0 +1,10 @@
+abc 1234 15
+aaa aaa 32
+bbb aaa 0
+ccc aaa 0
+ddd aaa 0
+eee aaa 0
+fff aaa 0
+ggg aaa 0
+qqq aaa 0
+eee aaa 0
